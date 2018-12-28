@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "656345123440",
+    "firebase_url": "https://androak-abcd7.firebaseio.com",
+    "project_id": "androak-abcd7",
+    "storage_bucket": "androak-abcd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656345123440:android:6afdf470483a77dc",
+        "android_client_info": {
+          "package_name": "com.example.hp.androak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656345123440-e3oo0jf98rc811dem3ufkhququt0iur7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.androak",
+            "certificate_hash": "1ddebaa1bb870ef7f4f75c8bb188d259061c9cb8"
+          }
+        },
+        {
+          "client_id": "656345123440-nu926nhsuroh4kkmpi60h07a61d70csj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw8O2dd4QobxD4nkEGwVJ_lBx1Go0I4VQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656345123440-nu926nhsuroh4kkmpi60h07a61d70csj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
